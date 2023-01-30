@@ -3,6 +3,16 @@ body{
     text-align: center;
 }
 
+hr{
+    display: block;
+    border: 3px;
+    width: 16%;
+    height: 20px;
+    background-image: url('../images/egg.png');
+    background-size: contain;
+    background-repeat: space;
+}
+
 .top{
     background-image: linear-gradient(to bottom, #F5EDDC 30%, #FA9494 65%);
     background-color: #F5EDDC;
